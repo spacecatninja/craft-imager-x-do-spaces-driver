@@ -1,5 +1,11 @@
 # Imager Storage Driver for DigitalOcean Spaces
 
+## 3.0.0-beta
+
+### Added
+- Craft 4.0 support
+
+
 ## 2.0.0 - 2020-02-14
 
 ### Added
