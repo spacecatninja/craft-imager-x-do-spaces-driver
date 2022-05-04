@@ -2,7 +2,7 @@
     "name": "spacecatninja/imager-x-do-spaces-driver",
     "description": "External storage driver for Imager X that integrates with DigitalOcean Spaces",
     "type": "craft-plugin",
-    "version": "3.0.0-beta",
+    "version": "3.0.0",
     "keywords": [
         "craft",
         "cms",
