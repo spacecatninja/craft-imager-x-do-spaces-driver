@@ -6,7 +6,7 @@ This plugin also serves as a good reference point if you want to create your own
 
 ## Requirements
 
-This plugin requires Craft CMS 3.3.0 or later, and Imager X 3.0 or later. External storages are only available in the Pro edition of Imager. 
+This plugin requires Craft CMS 5.0.0-beta.1 or later, and Imager X 5.0.0-beta.1 or later. External storages are only available in the Pro edition of Imager. 
 
 ## Installation
 
